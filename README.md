@@ -15,12 +15,3 @@
 | TG_CHAT_ID         | ❌ 可选  | Telegram Chat ID（接收通知的用户或群组 ID）              |
 
 ━━━━━━━━━━━━━━━━━━━━━━
-
-📌 示例填写格式（复制下面内容，分开添加）：
-KATABUMP_EMAIL=xxxx@gmail.com
-KATABUMP_PASSWORD=xxxxx
-NODE_LINK=socks5://user:pass@123.456.789:1234  
-TG_BOT_TOKEN=123456789:ABCdefGhIJKlmNoPQRstuVWXyz  
-TG_CHAT_ID=123456789  
-
-━━━━━━━━━━━━━━━━━━━━━━
